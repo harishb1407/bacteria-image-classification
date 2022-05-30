@@ -5,6 +5,6 @@ The following CNNs were used for performing the classification:
 - LeNet
 - AlexNet
 - ResNet
-- VGG16 (Tranfer Learning)
+- VGG16 (Transfer Learning)
 
 Contributors: [Harish Balasubramaniam](https://github.com/harishb1407), Amartya Mannava
