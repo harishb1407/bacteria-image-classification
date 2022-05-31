@@ -7,4 +7,4 @@ The following CNNs were used for performing the classification:
 - ResNet
 - VGG16 (Transfer Learning)
 
-Contributors: [Harish Balasubramaniam](https://github.com/harishb1407), Amartya Mannava
+Contributors: [Harish Balasubramaniam](https://www.linkedin.com/in/harish-balasubramaniam/), [Amartya Mannava](https://www.linkedin.com/in/amartya-m-36b116166/)
